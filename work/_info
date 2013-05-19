@@ -1,0 +1,209 @@
+m255
+K4
+z2
+13
+cModel Technology
+Z0 dC:\Modeltech_pe_edu_10.2a\examples
+!i10d 8192
+!i10e 25
+!i10f 100
+vadder
+Z1 !s110 1368956868
+Z2 I=b`kj?4fBF`;M^RbB7;NE1
+Z3 V`JN@9S9cnhjKRR_L]QIcM3
+Z4 dC:\Users\sakir\Documents\GitHub\cse338pr2
+Z5 w955028208
+Z6 8C:/Users/sakir/Documents/GitHub/cse338pr2/adder.v
+Z7 FC:/Users/sakir/Documents/GitHub/cse338pr2/adder.v
+L0 1
+Z8 OP;L;10.2a;57
+r1
+31
+Z9 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF -O0
+Z10 !s100 mVUEU;c7C6]4^CLCa^aRC3
+Z11 !s108 1368956868.703000
+Z12 !s107 C:/Users/sakir/Documents/GitHub/cse338pr2/adder.v|
+Z13 !s90 -reportprogress|300|-work|work|C:/Users/sakir/Documents/GitHub/cse338pr2/adder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valu32
+Z14 !s110 1368956867
+Z15 IhDiF>IShXnY@:oJHz2hWk2
+R3
+R4
+Z16 w1337086104
+Z17 8C:/Users/sakir/Documents/GitHub/cse338pr2/alu32.v
+Z18 FC:/Users/sakir/Documents/GitHub/cse338pr2/alu32.v
+L0 1
+R8
+r1
+31
+R9
+Z19 !s100 kVQG4hM]bESQTPdWSoF=03
+Z20 !s108 1368956867.724000
+Z21 !s107 C:/Users/sakir/Documents/GitHub/cse338pr2/alu32.v|
+Z22 !s90 -reportprogress|300|-work|work|C:/Users/sakir/Documents/GitHub/cse338pr2/alu32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+valucont
+Z23 IPH:0QgAjhE49GBcMQVA?00
+R3
+R4
+Z24 w1337085932
+Z25 8C:/Users/sakir/Documents/GitHub/cse338pr2/alucont.v
+Z26 FC:/Users/sakir/Documents/GitHub/cse338pr2/alucont.v
+L0 1
+R8
+r1
+31
+R9
+R1
+Z27 !s100 g5=^2I_@d0a^NW>cUMhFT1
+Z28 !s108 1368956868.103000
+Z29 !s107 C:/Users/sakir/Documents/GitHub/cse338pr2/alucont.v|
+Z30 !s90 -reportprogress|300|-work|work|C:/Users/sakir/Documents/GitHub/cse338pr2/alucont.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol
+Z31 !s110 1368956869
+Z32 IoMdAV]8CY]gGP:Yjn[H1]0
+R3
+R4
+Z33 w955028062
+Z34 8C:/Users/sakir/Documents/GitHub/cse338pr2/control.v
+Z35 FC:/Users/sakir/Documents/GitHub/cse338pr2/control.v
+L0 1
+R8
+r1
+31
+R9
+!i10b 1
+Z36 !s100 lK0[P^0@UZRQoXI2?99L92
+!s85 0
+Z37 !s108 1368956869.552000
+Z38 !s107 C:/Users/sakir/Documents/GitHub/cse338pr2/control.v|
+Z39 !s90 -reportprogress|300|-work|work|C:/Users/sakir/Documents/GitHub/cse338pr2/control.v|
+!s101 -O0
+vmult2_to_1_32
+R1
+Z40 ITiSih?c0Rnl_ggeB9[CYT3
+R3
+R4
+Z41 w1021135086
+Z42 8C:/Users/sakir/Documents/GitHub/cse338pr2/mult2_to_1_32.v
+Z43 FC:/Users/sakir/Documents/GitHub/cse338pr2/mult2_to_1_32.v
+L0 1
+R8
+r1
+31
+R9
+Z44 !s100 4h<;LEJa5AV`aDjn`k]@Z1
+Z45 !s108 1368956868.483000
+Z46 !s107 C:/Users/sakir/Documents/GitHub/cse338pr2/mult2_to_1_32.v|
+Z47 !s90 -reportprogress|300|-work|work|C:/Users/sakir/Documents/GitHub/cse338pr2/mult2_to_1_32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmult2_to_1_5
+R1
+Z48 ITM]]YF[hKF;Wn^Pne<:Z52
+R3
+R4
+Z49 w955028066
+Z50 8C:/Users/sakir/Documents/GitHub/cse338pr2/mult2_to_1_5.v
+Z51 FC:/Users/sakir/Documents/GitHub/cse338pr2/mult2_to_1_5.v
+L0 1
+R8
+r1
+31
+R9
+Z52 !s100 =R2hi^K1fmMmLHnB?>mfo1
+Z53 !s108 1368956868.932000
+Z54 !s107 C:/Users/sakir/Documents/GitHub/cse338pr2/mult2_to_1_5.v|
+Z55 !s90 -reportprogress|300|-work|work|C:/Users/sakir/Documents/GitHub/cse338pr2/mult2_to_1_5.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vprocessor
+Z56 I>56o]In3S8>UEXBUO=ODA3
+R3
+R4
+Z57 w1337088266
+Z58 8C:/Users/sakir/Documents/GitHub/cse338pr2/processor.v
+Z59 FC:/Users/sakir/Documents/GitHub/cse338pr2/processor.v
+L0 1
+R8
+r1
+31
+R9
+R14
+Z60 !s100 PRl8d9`4;6ocY99QDj7ld1
+Z61 !s108 1368956867.406000
+Z62 !s107 C:/Users/sakir/Documents/GitHub/cse338pr2/processor.v|
+Z63 !s90 -reportprogress|300|-work|work|C:/Users/sakir/Documents/GitHub/cse338pr2/processor.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vshift
+Z64 I[^WV_0n6;jG2@0JjoVH7Z2
+R3
+R4
+Z65 w955028064
+Z66 8C:/Users/sakir/Documents/GitHub/cse338pr2/shift.v
+Z67 FC:/Users/sakir/Documents/GitHub/cse338pr2/shift.v
+L0 1
+R8
+r1
+31
+R9
+R31
+Z68 !s100 dK1?844=@Bknm0>fnke4M3
+Z69 !s108 1368956869.232000
+Z70 !s107 C:/Users/sakir/Documents/GitHub/cse338pr2/shift.v|
+Z71 !s90 -reportprogress|300|-work|work|C:/Users/sakir/Documents/GitHub/cse338pr2/shift.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsignext
+R1
+Z72 IKl5>OEG;;8IB7YXB@YoSi3
+R3
+R4
+Z73 w1335991790
+Z74 8C:/Users/sakir/Documents/GitHub/cse338pr2/signext.v
+Z75 FC:/Users/sakir/Documents/GitHub/cse338pr2/signext.v
+L0 1
+R8
+r1
+31
+R9
+Z76 !s100 2cVmdFzf1ZdSIMWElZ0gz3
+Z77 !s108 1368956868.275000
+Z78 !s107 C:/Users/sakir/Documents/GitHub/cse338pr2/signext.v|
+Z79 !s90 -reportprogress|300|-work|work|C:/Users/sakir/Documents/GitHub/cse338pr2/signext.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vzeroext
+!s110 1368957175
+!i10b 1
+!s100 ?d2[<NjIiW<?E;OW`>D>i1
+ICUEVibABPb8lF;_i3TMDZ2
+R3
+R4
+w1368957171
+8C:/Users/sakir/Documents/GitHub/cse338pr2/zeroext.v
+FC:/Users/sakir/Documents/GitHub/cse338pr2/zeroext.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1368957175.426000
+!s107 C:/Users/sakir/Documents/GitHub/cse338pr2/zeroext.v|
+!s90 -reportprogress|300|-work|work|C:/Users/sakir/Documents/GitHub/cse338pr2/zeroext.v|
+!s101 -O0
+R9
